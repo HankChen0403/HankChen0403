@@ -2,7 +2,8 @@
 - 👀 I’m interested in quant finance and game dev
 - 🌱 I’m currently learning buad at University of Southern California
 - 💞️ I'm an incoming freshman so I know nothing technical
-- 📫 How to reach me ..
+- 📫 please email me at hankchen0403@gmail.com
+- 
 
 <!---
 HankChen0403/HankChen0403 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
